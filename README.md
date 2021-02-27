@@ -1,1 +1,2 @@
 # CakesBySekyiwaa
+print("Hello World")
